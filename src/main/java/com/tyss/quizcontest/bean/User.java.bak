@@ -18,8 +18,6 @@ public class User implements Serializable{
 	private String uname;
 	private String email;
     private String password;
-
-	//Test comment
     
 
 }
